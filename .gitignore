@@ -1,0 +1,27 @@
+# Build
+target/
+dist/
+
+# Claude Code
+.claude/
+
+# Scripts de build locais
+*.bat
+
+# Banco de dados local
+*.db
+
+# IDE - IntelliJ
+.idea/
+*.iml
+
+# IDE - VS Code
+.vscode/
+
+# IDE - Eclipse
+.classpath
+.project
+.settings/
+
+# Compilados
+*.class
