@@ -36,7 +36,7 @@ mvn javafx:run
 mvn package jpackage:jpackage
 ```
 
-O executável será gerado em `target/dist/Gerenciador de Conducao/`. Compacte essa pasta em `.zip` e suba como uma nova Release no GitHub.
+O executável será gerado em `target/dist/Gerenciador de Conducao/`. 
 
 > **Nota:** o banco de dados (`conducao.db`) é criado automaticamente na primeira execução, na mesma pasta do executável.
 
